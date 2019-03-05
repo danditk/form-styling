@@ -5,11 +5,12 @@ In the fourth episode of the CSS series, I will stylize the elements of the form
 
 .#HTML:
 
-	- x										x
+	- x											x
 
 .#CSS:
 
-	- box-shadow							set in box shadow generator add browser compatibilities -webkit- -moz-
+	- box-shadow								set in box shadow generator add browser compatibilities -webkit- -moz-
+	- input[type=text],input[type=password]{}	to styleing only that input which we want to style
 	
 	
 .# Sources:

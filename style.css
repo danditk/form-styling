@@ -14,7 +14,8 @@ body{
 	box-shadow: 3px 3px 30px 5px rgba(204,204,204,1);
 }
 
-input{
+input[type=text],
+input[type=password]{
 	width: 300px;
 	background-color: #efefef;
 	color: #666;
@@ -22,4 +23,18 @@ input{
 	border-radius: 5px;
 	font-size: 20px;
 	padding: 10px;
+	box-sizing: border-box;
+}
+
+input[type=submit]{
+	width: 300px;
+	background-color: #36b03c;
+	font-size: 20px;
+	color: white;
+	padding: 15px 10px;
+	margin-top: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
 }
