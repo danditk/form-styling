@@ -5,7 +5,7 @@ In the fourth episode of the CSS series, I will stylize the elements of the form
 
 .#HTML:
 
-	- x											x
+	- placeholder=""							text which disappears when we write
 
 .#CSS:
 
