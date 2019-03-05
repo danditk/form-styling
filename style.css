@@ -1,0 +1,25 @@
+body{
+	/* Background pattern from Toptal Subtle Patterns */
+	background-image:url("img/hexellence.png");
+	font-size: 20px;
+}
+
+#container{
+	background-color: white;
+	width: 300px;
+	padding: 50px;
+	margin: 100px auto 0 auto;
+	-webkit-box-shadow: 3px 3px 30px 5px rgba(204,204,204,1);
+	-moz-box-shadow: 3px 3px 30px 5px rgba(204,204,204,1);
+	box-shadow: 3px 3px 30px 5px rgba(204,204,204,1);
+}
+
+input{
+	width: 300px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+}

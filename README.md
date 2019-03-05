@@ -9,7 +9,7 @@ In the fourth episode of the CSS series, I will stylize the elements of the form
 
 .#CSS:
 
-	- x										x
+	- box-shadow							set in box shadow generator add browser compatibilities -webkit- -moz-
 	
 	
 .# Sources:
