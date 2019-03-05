@@ -11,6 +11,8 @@ In the fourth episode of the CSS series, I will stylize the elements of the form
 
 	- box-shadow								set in box shadow generator add browser compatibilities -webkit- -moz-
 	- input[type=text],input[type=password]{}	to styleing only that input which we want to style
+	- outline: none;							active/focus input box
+	- input[type=text]:focus					to style active input
 	
 	
 .# Sources:
